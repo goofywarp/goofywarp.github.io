@@ -1,2 +1,3 @@
-# goofywarp.github.io
-Main page to link other pages to.
+# GoofyWarp
+
+[Extension gallery.](https://goofywarp.github.io/extensions/)
